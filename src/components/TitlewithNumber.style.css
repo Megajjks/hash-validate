@@ -1,0 +1,8 @@
+.title-step{
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.title-step > h2{
+  margin: 0 0 0 .3rem;
+}

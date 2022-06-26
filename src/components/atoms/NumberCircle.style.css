@@ -1,0 +1,12 @@
+.number-circle{
+  background:var(--primary-color);
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+  border-radius: 50%;
+  font-weight: bold;
+  font-size:1rem;
+  color: var(--white-color);
+  text-align: center;
+  display: block;
+}

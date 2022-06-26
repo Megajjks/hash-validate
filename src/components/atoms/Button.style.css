@@ -1,0 +1,18 @@
+.general-button{
+  background-color:var(--primary-color);
+  font-size: 1rem;
+  color: var(--white-color);
+  font-weight:bold;
+  padding:.6rem 1rem;
+  border-radius: 4px;
+  border: transparent;
+  cursor: pointer;
+  transition: all 0.5s ease
+}
+.general-button:hover{
+ opacity: 0.8;
+}
+.general-button:active{
+  border: transparent;
+  transform: scale(.95);
+}
