@@ -27,6 +27,7 @@ const Home = () => {
           token={token}
           blocksArray={blocksArray}
           setBlocksArray={setBlocksArray}
+          setNewBlocksArray={setNewBlocksArray}
           setStepper={setStepper}
         />
       )}
