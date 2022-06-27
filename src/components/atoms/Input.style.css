@@ -19,6 +19,9 @@
   transform: translateX(0) translateY(0);
   transition: border 0.25s linear, transform 0.25s linear;
 }
+.input-field:disabled{
+  background-color: var(--grey-color);
+}
 .input-field:focus{
   border-color: var(--secondary-color);
   border-width: 2px;

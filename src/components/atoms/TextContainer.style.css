@@ -1,3 +1,9 @@
 .text-container{
   margin: 1rem 0;
 }
+
+.code-font{
+  font-family: monospace;
+  font-size: .74rem;
+  padding-left: .6rem;
+}

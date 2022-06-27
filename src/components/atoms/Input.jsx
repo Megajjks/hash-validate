@@ -8,6 +8,7 @@ const Input = ({
   placeholder,
   pattern,
   isRequired,
+  isDisabled,
   callback,
 }) => (
   <div className="input-wrapper">
@@ -22,6 +23,7 @@ const Input = ({
       pattern={pattern}
       required={isRequired}
       onChange={callback}
+      disabled={isDisabled}
       autocomplete
     />
   </div>
