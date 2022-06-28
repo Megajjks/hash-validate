@@ -6,4 +6,5 @@
   font-family: monospace;
   font-size: .74rem;
   padding-left: .6rem;
+  word-wrap: break-word;
 }

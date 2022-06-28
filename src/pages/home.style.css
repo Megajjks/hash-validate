@@ -1,8 +1,11 @@
 .home-wrapper{
   width:100vw;
-  height:100vh;
-  background-color: var(--background-color);
   display:flex;
   flex-direction: column;
   align-items: center;
+}
+.home-wrapper > footer{
+  font-size: .8rem;
+  font-weight:bold;
+  margin-bottom: 1rem;
 }
