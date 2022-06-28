@@ -28,7 +28,7 @@ El algoritmo para poder ordenar la cadena de bloques y hallar el hash fue el sig
 1. Obtener el token atraves del endpoint
 2. Obtener el arreglo de bloques desordenados con el token del endpoint obtenido en el paso previo
 3. Algoritmo de ordenamiento
-    - Almacenar el arreglo de bLoques en un array
+    - Almacenar el arreglo de bloques en un array
     - Crear un arreglo que guarde las posiciones correctas 
     - Recorrer el arreglo de posiciones aleatorias y estas compararlas con cada una de las posiciones
     - cuando el resultado de la peticion sea true, almacenar ese arreglo en el array de posiciones correctas
